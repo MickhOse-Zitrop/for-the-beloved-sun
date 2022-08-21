@@ -66,8 +66,7 @@ body {
 
 #c {
 	display: block;
-	margin: 50px auto;
-	margin: calc(50vh - 250px) auto;
+	margin-left: -100%;
 	cursor: pointer;
 	background-color: #222226;
 }
